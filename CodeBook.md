@@ -1,6 +1,6 @@
 <h1>Codebook for the Coursera Data Cleaning Course</h1>
 
-The data used in this assignment came from the UC Irvine Machine Learning Repository. A description of the research study from which the data originated can be found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones. There are 561 points of cell phone acceleromator data taken from the cell phones worn by the study's 30 participants. These data were used to plot the movement of each particpant while they wore the cell phone.
+The data used in this assignment came from the UC Irvine Machine Learning Repository. A description of the research study from which the data originated can be found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones. There are 561 points of cell phone acceleromator data taken from the cell phones worn by the study's 30 participants which are listed here: https://github.com/mgiorno/CourseraDataCleaningProject/edit/master/features.txt. These data were used to plot the movement of each particpant while they wore the cell phone.
 
 In adition to the acceleromator data each participant's id number, an activity id number and a descriptive label for each type of activity was collected with the triaxial data to summarize the findings both by subject and by the type of activity they were engaged in when each record of 3-d spatial and body movement data was collected.
 
